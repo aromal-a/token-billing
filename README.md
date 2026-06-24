@@ -69,3 +69,6 @@ docker compose up -d
 | overage_tokens | INTEGER | Tokens exceeding quota |
 | total_charge | DECIMAL | Calculated charge |
 | calculated_at | TIMESTAMP | Calculation time |
+|Outsource compose| NAME | Same Billing |
+|Time = 'File-guiding' , Correct = "Transformation"|
+|Credit = 'Transfer' . Method = 'Route_call'|
