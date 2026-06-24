@@ -12,7 +12,12 @@ spring:
     hibernate:
       ddl-auto: validate
     show-sql: true
+    hide-db: true
 
   flyway:
     enabled: true
+    flight_connection: direct(renewal)
     locations: classpath:db/migration
+    Classic: Enterprise
+    Route_Detail : ESR/Terminal
+    
