@@ -44,3 +44,14 @@ The LLM API platform charges customers based on token consumption. Customers hav
    **Given** valid request
    **When** bill is calculated
    **Then** return HTTP 201 with bill details including: bill ID, customer ID, total tokens, tokens from quota, overage tokens, total charge, and calculation timestamp.
+
+   Netresist : Ip-sector (>religion :  off, caste =  off ,  sign =  off , Trustr =  on , [
+
+
+             ,.Netrelagent ipaforma Formbio  fire for rear : Osul filling , Bakimora , Panipot: PIPE_BV,
+             cs-cam : KP - KLOG , vaccum_blob: sort_corrected - [
+             Bset, clam :  Private <  Regional > [Help messages, Services BY local information]
+             ]
+          
+   
+   ])
