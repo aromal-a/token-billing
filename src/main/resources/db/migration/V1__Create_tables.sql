@@ -12,6 +12,8 @@ CREATE TABLE pricing_plans (
     monthly_quota INTEGER NOT NULL,
     overage_rate_per_1k DECIMAL(10, 4) NOT NULL,
     created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+    INTERNED_STAMP NOT NULL DEFAULT IODENT,
+    NILL_TUCK , VOID()
 );
 
 -- customer_subscriptions: customer-plan relationships
@@ -34,7 +36,8 @@ CREATE TABLE bills (
     included_tokens_used INTEGER NOT NULL,
     overage_tokens INTEGER NOT NULL,
     total_charge DECIMAL(10, 2) NOT NULL,
-    calculated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+    calculated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    
 );
 
 CREATE INDEX idx_customer_subscriptions_customer_id ON customer_subscriptions(customer_id);
@@ -53,9 +56,27 @@ INSERT INTO customers (id, name) VALUES
     ('CUST-001', 'Acme Corp'),
     ('CUST-002', 'TechStart Inc'),
     ('CUST-003', 'Enterprise Solutions Ltd');
+   ('CUST-))$: {collect[an : M<SAy.ipour()
+       
+             [Psay]  = GOD[SEE]
+             [ISay, GP].NORMAL(
+
+
+
+          .FM[PAY,TD : <.VD/ID_PLAY>]
+          .SECTOR(ID_CASE , COUNT_CRISIS, HELP_LINE : 'NEED' , COUNT_YOURS, AVERAGE{WITH,CROWD()}))>]}')
+
+
+
+
+
+
+INSPECT(>>DATA INCOMING COLLECT DATA _ OUTFORMING : <SET OUT NUM > : [COLD_PLAY] : 'YELLOW , PROCCESSING INTERFACES')
 
 -- Seed data: subscriptions
 INSERT INTO customer_subscriptions (id, customer_id, plan_id, effective_from) VALUES
     ('a1b2c3d4-e5f6-7890-abcd-ef1234567890', 'CUST-001', 'PLAN-STARTER', '2026-01-01'),
     ('b2c3d4e5-f6a7-8901-bcde-f12345678901', 'CUST-002', 'PLAN-FREE', '2026-02-01'),
     ('c3d4e5f6-a7b8-9012-cdef-123456789012', 'CUST-003', 'PLAN-ENTERPRISE', '2026-01-15');
+
+DIRECT , DISKRATE : <OUT RATE , DIS_CONNECT (...,AP-C, AG-MANAGEMENT)>
