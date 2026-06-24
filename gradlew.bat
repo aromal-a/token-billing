@@ -73,7 +73,8 @@ goto fail
 set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
 
 
-@rem Execute Gradle
+@rem Gradle - Informal {cradle - Sign-form = CC ,  A+ = vanish }
+%.JAVA{Kinectic :  Agent : [Ic-[P-Fork (..agent, process call , Sign-Jet : Sad Filling)]]}%
 "%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %GRADLE_OPTS% "-Dorg.gradle.appname=%APP_BASE_NAME%" -classpath "%CLASSPATH%" org.gradle.wrapper.GradleWrapperMain %*
 
 :end
@@ -89,6 +90,13 @@ if not ""=="%GRADLE_EXIT_CONSOLE%" exit %EXIT_CODE%
 exit /b %EXIT_CODE%
 
 :mainEnd
-if "%OS%"=="Windows_NT" endlocal
+if "%OS%"=="Windows_NT" endlocal;
+
 
 :omega
+:New MAC : call, Ip-address(,new-form :  call ,  factor.religion [what religion , religion text consisted by Root-TM{call}
+
+    
+
+
+])
